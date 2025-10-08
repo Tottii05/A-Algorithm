@@ -35,7 +35,7 @@ The second part recreates the algorithm in **Python**, this time to **solve rand
 
 ### Screenshot:
 
-![Python Maze Solver](images/python_astar.png)  
+![Python Maze Solver](Images/PythonAStar.png)  
 *Path solved using A* in a randomly generated maze*
 
 ---
