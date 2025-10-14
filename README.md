@@ -17,8 +17,10 @@ The algorithm calculates the **most efficient path** between a start and an end 
 - A* cost calculation using G, H, and F scores
 
 ### Screenshot:
+![Unity Pathfinding](Images/UnityInProgress.png)  
+*Node generation with random heuristics and  costs*
 
-![Unity Pathfinding](images/unity_astar.png)  
+![Unity Pathfinding](Images/UnityDone.png)  
 *Optimal path found using A* in Unity*
 
 ---
